@@ -11,7 +11,7 @@ public class Cuadrado {
      public Integer calcularArea(){
     	   area = lado * lado;
     	   return area;
-    	 //segundocomentario
+    	 //segundocomentario 353
      }
      
 }
